@@ -1,0 +1,219 @@
+{
+  "repository": "https://github.com/liuzilin94/jindai",
+  "ref": "main",
+  "sourceRevision": "9c7ef23d8cc8329b4fe1dd32acf7d0d4ba5641fc",
+  "importedFor": "九宫格可选纹样图片",
+  "note": "编号和蓝白/红白/混合仅来自旧仓库路径；纹样正式名称、寓意、实物对应及公开使用范围尚待核对。",
+  "items": [
+    {
+      "id": 1,
+      "file": "01.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225709_26_1500.jpg"
+    },
+    {
+      "id": 2,
+      "file": "02.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225710_27_1500.jpg"
+    },
+    {
+      "id": 3,
+      "file": "03.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225711_28_1500.jpg"
+    },
+    {
+      "id": 4,
+      "file": "04.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225712_29_1500.jpg"
+    },
+    {
+      "id": 5,
+      "file": "05.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225712_30_1500.jpg"
+    },
+    {
+      "id": 6,
+      "file": "06.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225713_31_1500.jpg"
+    },
+    {
+      "id": 7,
+      "file": "07.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225714_32_1500.jpg"
+    },
+    {
+      "id": 8,
+      "file": "08.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225715_33_1500.jpg"
+    },
+    {
+      "id": 9,
+      "file": "09.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225716_34_1500.jpg"
+    },
+    {
+      "id": 10,
+      "file": "10.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225716_35_1500.jpg"
+    },
+    {
+      "id": 11,
+      "file": "11.jpg",
+      "category": "蓝白",
+      "sourcePath": "src/static/images/花纹/蓝白/微信图片_20260415225717_36_1500.jpg"
+    },
+    {
+      "id": 12,
+      "file": "12.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225718_37_1500.jpg"
+    },
+    {
+      "id": 13,
+      "file": "13.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225719_38_1500.jpg"
+    },
+    {
+      "id": 14,
+      "file": "14.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225720_39_1500.jpg"
+    },
+    {
+      "id": 15,
+      "file": "15.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225721_40_1500.jpg"
+    },
+    {
+      "id": 16,
+      "file": "16.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225721_41_1500.jpg"
+    },
+    {
+      "id": 17,
+      "file": "17.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225722_42_1500.jpg"
+    },
+    {
+      "id": 18,
+      "file": "18.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225723_43_1500.jpg"
+    },
+    {
+      "id": 19,
+      "file": "19.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225724_44_1500.jpg"
+    },
+    {
+      "id": 20,
+      "file": "20.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225725_45_1500.jpg"
+    },
+    {
+      "id": 21,
+      "file": "21.jpg",
+      "category": "红白",
+      "sourcePath": "src/static/images/花纹/红白/微信图片_20260415225726_46_1500.jpg"
+    },
+    {
+      "id": 22,
+      "file": "22.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225727_47_1500.jpg"
+    },
+    {
+      "id": 23,
+      "file": "23.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225727_48_1500.jpg"
+    },
+    {
+      "id": 24,
+      "file": "24.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225728_49_1500.jpg"
+    },
+    {
+      "id": 25,
+      "file": "25.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225729_50_1500.jpg"
+    },
+    {
+      "id": 26,
+      "file": "26.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225730_51_1500.jpg"
+    },
+    {
+      "id": 27,
+      "file": "27.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225731_52_1500.jpg"
+    },
+    {
+      "id": 28,
+      "file": "28.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225732_53_1500.jpg"
+    },
+    {
+      "id": 29,
+      "file": "29.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225733_54_1500.jpg"
+    },
+    {
+      "id": 30,
+      "file": "30.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225734_55_1500.jpg"
+    },
+    {
+      "id": 31,
+      "file": "31.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225734_56_1500.jpg"
+    },
+    {
+      "id": 32,
+      "file": "32.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225735_57_1500.jpg"
+    },
+    {
+      "id": 33,
+      "file": "33.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225736_58_1500.jpg"
+    },
+    {
+      "id": 34,
+      "file": "34.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225737_59_1500.jpg"
+    },
+    {
+      "id": 35,
+      "file": "35.jpg",
+      "category": "混合",
+      "sourcePath": "src/static/images/花纹/混合/微信图片_20260415225738_60_1500.jpg"
+    }
+  ]
+}

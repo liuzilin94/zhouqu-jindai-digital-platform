@@ -1,0 +1,11 @@
+{
+  "name": "zhouqu-jindai-platform",
+  "version": "0.2.0",
+  "private": true,
+  "description": "舟曲锦带数字文化平台本地服务",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test backend.test.cjs"
+  },
+  "engines": { "node": ">=24.11.1" }
+}
